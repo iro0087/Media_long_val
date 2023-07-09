@@ -7,13 +7,13 @@ ffmpeg
 
 ## **Usage**
 
-bash longueur.sh -i input_file --> x1hour x2min x3secs
+- bash longueur.sh -i input_file --> x1hour x2min x3secs
 
-bash longueur.sh -i input_file -u s --> x sec 
+- bash longueur.sh -i input_file -u s --> x sec 
 
-bash longueur.sh -i input_file -u hour --> x hour (gets the smallest and nearest integer)
+- bash longueur.sh -i input_file -u hour --> x hour (gets the smallest and nearest integer)
 
-bash longueur.sh -i input_file -u min --> x min (gets the smallest and nearest integer)
+- bash longueur.sh -i input_file -u min --> x min (gets the smallest and nearest integer)
 
 ## **Alias**
 
