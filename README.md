@@ -19,4 +19,4 @@ ffmpeg
 
 If you want to use it as an everyday command, put it as an alias
 
-Example in your .bashrc: alias long="~/path_to_script/longueur.sh"
+Example in your .bashrc: alias long="bash ~/path_to_script/longueur.sh"
