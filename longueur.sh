@@ -41,6 +41,7 @@ while getopts ":i:u:" options; do
 
       echo "options are -i (input file) and -u (unit)"
       exit 1
+      ;;
 
   esac
 done
